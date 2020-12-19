@@ -3,7 +3,7 @@ remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
 title: 'JuliaKM'
-description: 'Writer and developer in Durham, NC'
+description: 'writer and developer in Durham, NC'
 
 # Images
 avatar: 'avatar.png'
@@ -15,7 +15,7 @@ favicon: 'favicon.ico'
 facebook: 'JuliaKM'
 twitter: 'JuliaKM'
 linkedin: 'juliakm'
-#instagram: 'myinsta'
+instagram: 'juliakm919'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
 github-user: 'JuliaKM'
