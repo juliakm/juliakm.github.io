@@ -2,12 +2,12 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'JuliaKM'
+title: 'Julia Kulla-Mader'
 description: 'writer and developer in Durham, NC'
 
 # Images
 avatar: 'avatar.png'
-background: 'background.jpg'
+background: 'blue-ridge.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
