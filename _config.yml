@@ -27,7 +27,7 @@ github-user: 'JuliaKM'
 #stack-overflow: ''
 #reddit: ''
 #rubygems: ''
-#medium:  ''
+medium:  'juliakm'
 #tumblr: 'mytumblr'
 #weibo: 'myweibo'
 #vk: 'myvk'
@@ -35,7 +35,7 @@ github-user: 'JuliaKM'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, facebook, twitter, instagram, medium, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
 # Advanced settings
 plugins:
